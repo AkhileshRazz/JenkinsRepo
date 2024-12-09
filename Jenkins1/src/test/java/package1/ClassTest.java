@@ -2,7 +2,7 @@ package package1;
 
 import org.testng.annotations.Test;
 
-public class Class1 {
+public class ClassTest {
 	@Test
 	public void method1Test() {
 		System.out.println("Hello from method1 from class1");

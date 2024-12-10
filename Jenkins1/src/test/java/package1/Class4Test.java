@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Class4Test {
 
-	public void method1() 
+	public void method1Test() 
 	{
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();

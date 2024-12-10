@@ -12,5 +12,6 @@ public class Class4Test {
 		driver.get("https://www.facebook.com/");
 		driver.close();
 		driver.quit();
+		System.out.println("Face book is open afterthat browser is close and quit");
 	}
 }
